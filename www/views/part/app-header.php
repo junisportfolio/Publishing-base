@@ -1,6 +1,6 @@
 <?php
 $config["themeColor"] = "#977049";
-$config["sitename"] = "ㅇㅇㅇ";
+$config["sitename"] = "Mocobee - Office";
 $config["mode"] = "front";
 $config["isDev"] = true;
 $config["cssTableMinWidth"] = 640;
@@ -23,6 +23,7 @@ $config["imageDir"] = $config["resourcesDir"]  . "/images";
 <meta name="msapplication-navbutton-color" content="<?php echo $config["themeColor"]; ?>">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
+ <!--
 <link rel="apple-touch-startup-image" href="/resources/favicon/android-icon-192x192.png">
 <link rel="apple-touch-icon" sizes="57x57" href="/resources/favicon/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="/resources/favicon/apple-icon-60x60.png">
@@ -37,8 +38,9 @@ $config["imageDir"] = $config["resourcesDir"]  . "/images";
 <link rel="icon" type="image/png" sizes="32x32" href="/resources/favicon/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="96x96" href="/resources/favicon/favicon-96x96.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/resources/favicon/favicon-16x16.png">
+    -->
 <link rel="shortcut icon" href="/resources/favicon/favicon.ico">
-<link rel="manifest" href="/resources/favicon/manifest.json">
+<!--<link rel="manifest" href="/resources/favicon/manifest.json">-->
 <meta name="msapplication-TileColor" content="<?php echo $config["themeColor"]; ?>">
 <meta name="msapplication-TileImage" content="/resources/favicon/android-icon-192x192.png">
 <meta property="og:title" content="<?php echo $config["sitename"]; ?>">

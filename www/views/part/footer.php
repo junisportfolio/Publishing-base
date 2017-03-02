@@ -1,10 +1,15 @@
 <!-- Footer.html -->
-		</div>
-	</div>
-	<div id="footer">
-		<div class="container">
-			footer
-		</div>
-	</div>
+</section>
+<footer id="footer">
+    <p class="copyright">
+        Copyright Mocobee
+    </p>
+
+</footer>
+<div id="sitemap">
+
 </div>
+</div>
+
+
 <!-- //Footer.html -->

@@ -1,6 +1,3 @@
 <!-- Header Sub.html -->
-<div id="snb">
-	snb
-</div>
-<div id="content">
+<div id="content" class="sub-page">
 <!-- //Header Sub.html -->
