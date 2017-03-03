@@ -1,3 +1,3 @@
 <!-- Sub Footer.html -->
-</div>
+</article>
 <!-- //Sub Footer.html -->

@@ -3,6 +3,7 @@
     <header id="header">
         <h1 class="logo">
             <a href="">
+                Mocobee
                 <span class="sr-only">
                     Mocobee - Office
                 </span>

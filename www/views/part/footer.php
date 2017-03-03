@@ -11,11 +11,9 @@
 <div id="sitemap">
     <div class="sitemap-nav">
         <div class="btn-close">
-            <a href="">
             <span class="sr-only">
                 사이트맵 닫기
             </span>
-            </a>
         </div>
         <ul class="lnb">
             <li>
@@ -180,5 +178,12 @@
         </ul>
     </div>
 </div>
-
+<div id="displaymode">
+    <div class="mode pc">
+        PC 모드
+    </div>
+    <div class="mode mobile">
+        Mobile 모드
+    </div>
+</div>
 <!-- //Footer.html -->
