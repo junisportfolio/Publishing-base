@@ -1,27 +1,44 @@
 <!-- Header.html -->
 <div id="wrap">
     <header id="header">
-        <h1 id="logo">
+        <h1 class="logo">
             <a href="">
-                <span class="">
+                <span class="sr-only">
                     Mocobee - Office
                 </span>
             </a>
         </h1>
         <div id="gnb">
             <div class="user-info">
-                <span class="small">
-                    안녕하세요
-                </span>
-                <span class="name">
-
-                    홍길동
+                <div class="user-menu">
                     <span class="small">
-                        님
+                        안녕하세요
                     </span>
-                </span>
+                    <span class="name">
+                        홍길동
+                        <span class="small">
+                            님
+                        </span>
+                    </span>
+                </div>
+                <ul class="user-menu-list">
+                    <li>
+                        <a href="">
+                            <span>
+                                내 정보
+                           </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="">
+                            <span>
+                                로그아웃
+                            </span>
+                        </a>
+                    </li>
+                </ul>
             </div>
-            <div class="sitemap">
+            <div class="btn-sitemap">
                 <a href="">
                     <span class="sr-only">
                         사이트맵
@@ -194,4 +211,4 @@
                 </li>
             </ul>
         </nav>
-<!-- Header.html -->
+        <!-- Header.html -->
