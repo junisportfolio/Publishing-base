@@ -2,8 +2,152 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa377974-135b-40f8-91ef-ca6fd402e8d3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/.csslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/404_500_errors.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/AdminLTE-without-plugins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/AdminLTE.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/bootstrap-social.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/boxes.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/callout.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/carousel.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/control-sidebar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/direct-chat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/dropdown.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/forms.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/fullcalendar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/header.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/info-box.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/invoice.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/labels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/lockscreen.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/login_and_register.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/mailbox.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/miscellaneous.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/modal.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/navs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/plugins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/print.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/products.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/profile.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/progress-bars.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/select2.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/sidebar-mini.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/sidebar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/skins/_all-skins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/skins/skin-black-light.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/skins/skin-black.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/skins/skin-blue-light.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/skins/skin-blue.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/skins/skin-green-light.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/skins/skin-green.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/skins/skin-purple-light.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/skins/skin-purple.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/skins/skin-red-light.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/skins/skin-red.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/skins/skin-yellow-light.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/skins/skin-yellow.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/small-box.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/social-widgets.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/table.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/timeline.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/users-list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/views/asd.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/jspack/1.vendor/jquery-cycle2/jquery.cycle2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/.csscomb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/.csslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/alerts.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/badges.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/bootstrap-desktop.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/bootstrap-largedesktop.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/bootstrap-tablet.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/bootstrap.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/breadcrumbs.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/button-groups.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/buttons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/carousel.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/close.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/code.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/component-animations.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/dropdowns.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/forms-tablet.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/forms.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/glyphicons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/grid-desktop.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/grid-largedesktop.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/grid-tablet.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/grid.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/input-groups.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/jumbotron.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/labels.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/list-group.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/media.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/modals.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/navbar.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/navs.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/normalize.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/pager.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/pagination.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/panels.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/popovers.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/print.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/progress-bars.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/responsive-embed.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/responsive-utilities-desktop.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/responsive-utilities-largedesktop.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/responsive-utilities-tablet.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/responsive-utilities.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/scaffolding.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/tables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/theme.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/thumbnails.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/tooltip.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/type.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/utilities.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/wells.less" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/desktop.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/desktop.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/largedesktop.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/largedesktop.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/lib/util.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/lib/util.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/phone.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/phone.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/tablet.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/tablet.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/alerts.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/alerts.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/background-variant.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/background-variant.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/border-radius.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/border-radius.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/buttons.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/buttons.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/center-block.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/center-block.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/clearfix.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/clearfix.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/forms.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/forms.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/gradients.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/gradients.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/grid-framework.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/grid-framework.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/grid.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/grid.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/hide-text.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/hide-text.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/image.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/image.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/labels.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/labels.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/list-group.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/list-group.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/nav-divider.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/nav-divider.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/nav-vertical-align.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/nav-vertical-align.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/opacity.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/opacity.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/pagination.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/pagination.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/panels.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/panels.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/progress-bar.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/progress-bar.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/reset-filter.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/reset-filter.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/reset-text.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/reset-text.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/resize.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/resize.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/responsive-visibility.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/responsive-visibility.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/size.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/size.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/tab-focus.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/tab-focus.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/table-row.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/table-row.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/text-emphasis.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/text-emphasis.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/text-overflow.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/text-overflow.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/vendor-prefixes.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/vendor-prefixes.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/variables.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/views/part/app-header.php" afterPath="$PROJECT_DIR$/www/views/part/app-header.php" />
     </list>
     <ignored path="Publishing-base.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,41 +168,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="test.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.html">
+      <file leaf-file-name="lockscreen.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/lockscreen.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+            <state relative-caret-position="-751">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mixins.less" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Downloads/AdminLTE-2.3.11/build/bootstrap-less/mixins.less">
+      <file leaf-file-name="login_and_register.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/login_and_register.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+            <state relative-caret-position="-436">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="variables.less" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Downloads/AdminLTE-2.3.11/build/bootstrap-less/variables.less">
+      <file leaf-file-name="carousel.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/carousel.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-10276">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="control-sidebar.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/control-sidebar.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="core.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/core.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
               <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="variables.less" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/variables.less">
+      <file leaf-file-name="phone.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/phone.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8026">
+            <state relative-caret-position="135">
+              <caret line="9" column="48" lean-forward="true" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdminLTE.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/AdminLTE.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="variables.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/variables.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1036">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="users-list.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/users-list.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-195">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Downloads/AdminLTE-2.3.11/documentation/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -69,10 +273,18 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>hidden-xs hidden-sm flr</find>
+      <find>@baseImageDir</find>
+      <find>@baseVendorImageDir</find>
+      <find>@basePartImageDir</find>
+      <find>grid-gutter</find>
+      <find>xs</find>
     </findStrings>
     <replaceStrings>
       <replace>hidden-xs hidden-sm hidden-md flr</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -80,7 +292,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/www/resources-dev/front/less/lib/util.less" />
         <option value="$PROJECT_DIR$/www/resources-dev/front/less/components/core.less" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/www/resources-dev/front/less/part/sub-layout/phone.less" />
@@ -89,13 +300,11 @@
         <option value="$PROJECT_DIR$/www/resources-dev/front/less/part/sub-layout/largedesktop.less" />
         <option value="$PROJECT_DIR$/www/resources-dev/front/less/part/layout/layout.less" />
         <option value="$PROJECT_DIR$/www/resources-dev/front/less/part/style/largedesktop.less" />
-        <option value="$PROJECT_DIR$/www/resources-dev/front/less/largedesktop.less" />
         <option value="$PROJECT_DIR$/www/views/part/footer.php" />
         <option value="$PROJECT_DIR$/www/views/part/header.php" />
         <option value="$PROJECT_DIR$/www/views/index.php" />
         <option value="$PROJECT_DIR$/www/views/part/header-sub.php" />
         <option value="$PROJECT_DIR$/www/views/part/footer-sub.php" />
-        <option value="$PROJECT_DIR$/www/resources-dev/front/less/phone.less" />
         <option value="$PROJECT_DIR$/www/resources-dev/front/less/part/style/table/primary/phone.less" />
         <option value="$PROJECT_DIR$/www/resources-dev/front/less/part/style/table/view/phone.less" />
         <option value="$PROJECT_DIR$/www/resources-dev/front/less/part/style/btn/phone.less" />
@@ -105,14 +314,12 @@
         <option value="$PROJECT_DIR$/www/resources-dev/front/less/part/style/title/phone.less" />
         <option value="$PROJECT_DIR$/www/resources-dev/front/less/part/style/section/phone.less" />
         <option value="$PROJECT_DIR$/www/resources-dev/front/less/part/sitemap/phone.less" />
-        <option value="$PROJECT_DIR$/www/resources-dev/front/less/desktop.less" />
         <option value="$PROJECT_DIR$/www/resources-dev/front/less/part/style/tablet.less" />
         <option value="$PROJECT_DIR$/www/resources-dev/front/less/part/style/section/desktop.less" />
         <option value="$PROJECT_DIR$/www/resources-dev/front/less/part/style/section/tablet.less" />
         <option value="$PROJECT_DIR$/www/resources-dev/front/less/part/layout-sub/desktop.less" />
         <option value="$PROJECT_DIR$/www/resources-dev/front/less/part/style/desktop.less" />
         <option value="$PROJECT_DIR$/www/views/sub.php" />
-        <option value="$PROJECT_DIR$/www/resources-dev/front/less/tablet.less" />
         <option value="$PROJECT_DIR$/www/resources-dev/front/less/part/etc.less" />
         <option value="$PROJECT_DIR$/www/resources-dev/front/less/lib/config.less" />
         <option value="$PROJECT_DIR$/www/resources-dev/front/less/part/sitemap/tablet.less" />
@@ -122,6 +329,15 @@
         <option value="$PROJECT_DIR$/www/resources-dev/front/jspack/3.part/app.js" />
         <option value="$PROJECT_DIR$/www/resources-dev/front/less/part/layout-sub/phone.less" />
         <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap-origin/variables.less" />
+        <option value="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins.less" />
+        <option value="$PROJECT_DIR$/www/resources-dev/front/less/desktop.less" />
+        <option value="$PROJECT_DIR$/www/resources-dev/front/less/tablet.less" />
+        <option value="$PROJECT_DIR$/www/resources-dev/front/less/largedesktop.less" />
+        <option value="$PROJECT_DIR$/www/resources-dev/front/less/lib/util.less" />
+        <option value="$PROJECT_DIR$/www/resources-dev/front/less/phone.less" />
+        <option value="$PROJECT_DIR$/www/views/part/app-header.php" />
+        <option value="$PROJECT_DIR$/www/views/asd.php" />
       </list>
     </option>
   </component>
@@ -200,6 +416,46 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="juni_pub_base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="juni_pub_base" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="part" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="juni_pub_base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="juni_pub_base" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="resources-dev" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -272,7 +528,145 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
+              <option name="myItemId" value="admin-lte" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="juni_pub_base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="juni_pub_base" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources-dev" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsvendor-dev-only" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="juni_pub_base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="juni_pub_base" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources-dev" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsvendor" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="juni_pub_base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="juni_pub_base" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources-dev" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jspack" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="juni_pub_base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="juni_pub_base" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources-dev" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jspack" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2.components" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="juni_pub_base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="juni_pub_base" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources-dev" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jspack" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1.vendor" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -315,8 +709,12 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap-origin/mixins.less" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/www/resources-dev/front/less/vendor" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/www/resources-dev/front/less/part/style/section" />
       <recent name="$PROJECT_DIR$/www/resources-dev/front/less/part/sitemap" />
@@ -396,7 +794,7 @@
       <workItem from="1488455864783" duration="8964000" />
       <workItem from="1488504673735" duration="19190000" />
       <workItem from="1488533777601" duration="100000" />
-      <workItem from="1488762185963" duration="771000" />
+      <workItem from="1488762185963" duration="8260000" />
     </task>
     <task id="LOCAL-00001" summary="초기">
       <created>1488503959734</created>
@@ -419,22 +817,29 @@
       <option name="project" value="LOCAL" />
       <updated>1488533852861</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="레이아웃 구성">
+      <created>1488763834704</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1488763834704</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29025000" />
+    <option name="totallyTimeSpent" value="36514000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="51" y="23" width="1389" height="877" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Remote Host" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26206383" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30586487" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299363" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34649682" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -473,353 +878,410 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/wells.less">
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/bootstrap-desktop.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/bootstrap-largedesktop.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/lib/util.less">
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/bootstrap-tablet.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="300">
+          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/components/core.less">
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/grid-tablet.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="1" lean-forward="false" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="8" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/resources-dev/README" />
-    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/part/layout-sub/tablet.less">
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/responsive-embed.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/part/layout/layout.less" />
-    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/jspack/1.vendor/jquery.form.js">
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/modals.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="150">
+          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/jspack/2.components/core.js">
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap-origin/mixins/hide-text.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/largedesktop.less">
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap-origin/mixins/grid.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <caret line="13" column="21" lean-forward="false" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap-origin/mixins/vendor-prefixes.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-405">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap-origin/mixins.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="27" lean-forward="false" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/bootstrap.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="34" column="22" lean-forward="true" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/grid.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-254">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/grid-desktop.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/responsive-utilities.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/grid-largedesktop.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/utilities.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="27" column="27" lean-forward="false" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+        <state relative-caret-position="-209">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/views/part/footer.php">
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/responsive-utilities-largedesktop.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="184" column="29" lean-forward="false" selection-start-line="184" selection-start-column="29" selection-end-line="184" selection-end-column="29" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/views/part/footer-sub.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/views/index.php">
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/responsive-utilities-desktop.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/part/style/table/view/phone.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/part/style/table/primary/phone.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/part/style/btn/phone.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/part/style/input/phone.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/part/style/title/phone.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/part/style/section/phone.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/part/style/tablet.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/views/part/app-header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/part/style/section/tablet.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/part/style/section/desktop.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/part/layout-sub/largedesktop.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/part/layout-sub/desktop.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/part/style/largedesktop.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/part/style/desktop.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/desktop.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/views/sub.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1335">
-          <caret line="89" column="35" lean-forward="true" selection-start-line="89" selection-start-column="35" selection-end-line="89" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/part/style/phone.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="4" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/part/style/list/member/phone.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/part/sitemap/phone.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="62" column="7" lean-forward="true" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/part/sitemap/largedesktop.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/phone.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="14" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/tablet.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/part/etc.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/lib/config.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/part/sitemap/tablet.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/part/sitemap/desktop.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/part/layout/desktop.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/part/layout/phone.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1471">
-          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/part/layout-sub/phone.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/views/part/header-sub.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="35" column="26" lean-forward="true" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/jspack/3.part/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="62" column="17" lean-forward="true" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/views/part/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="51" column="20" lean-forward="false" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/AdminLTE-2.3.11/build/bootstrap-less/mixins.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/AdminLTE-2.3.11/build/bootstrap-less/variables.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10276">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/variables.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8026">
+        <state relative-caret-position="3466">
+          <caret line="839" column="20" lean-forward="false" selection-start-line="839" selection-start-column="20" selection-end-line="839" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap-origin/variables.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="294" column="15" lean-forward="false" selection-start-line="294" selection-start-column="12" selection-end-line="294" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/largedesktop.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/desktop.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/AdminLTE-2.3.11/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/views/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="13" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/part/style/tablet.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/part/style/section/tablet.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="6" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/lib/config.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/lib/util.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="9" lean-forward="false" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/tablet.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/jspack/2.components/core.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="41" lean-forward="false" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/sidebar-mini.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-660">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/views/part/app-header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="80" column="68" lean-forward="false" selection-start-line="80" selection-start-column="56" selection-end-line="80" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/views/asd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="30" column="44" lean-forward="true" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/AdminLTE-without-plugins.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/.csslintrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/boxes.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-225">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/header.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3091">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/info-box.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-781">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/labels.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/invoice.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/lockscreen.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-751">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/login_and_register.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-436">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/carousel.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/control-sidebar.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/core.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/phone.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="48" lean-forward="true" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/AdminLTE.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/variables.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1036">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resources-dev/front/less/vendor/admin-lte/users-list.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-195">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/AdminLTE-2.3.11/documentation/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
           <folding />
         </state>
       </provider>

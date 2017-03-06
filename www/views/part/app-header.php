@@ -3,9 +3,9 @@ $config["themeColor"] = "#977049";
 $config["sitename"] = "Mocobee - Office";
 $config["mode"] = "front";
 $config["isDev"] = true;
-$config["cssTableMinWidth"] = 640;
-$config["cssDesktopMinWidth"] = 1024;
-$config["cssLargeDesktopMinWidth"] = 1280;
+$config["cssTableMinWidth"] = 768;
+$config["cssDesktopMinWidth"] = 992;
+$config["cssLargeDesktopMinWidth"] = 1200;
 $config["srcResourcesDir"] = "/resources-dev/" . $config["mode"];
 $config["destResourcesDir"] = "/resources/" . $config["mode"];
 $config["resourcesDir"] = ($config['isDev'] === true && (isset($config['isBuild']) && !$config['isBuild'] || !isset($config['isBuild']))) ? $config["srcResourcesDir"] : $config["destResourcesDir"];
@@ -82,5 +82,7 @@ $config["imageDir"] = $config["resourcesDir"]  . "/images";
 <script src="<?php echo $config["resourcesDir"]; ?>/js/script.min.js"></script>
 <?php } ?>
 </head>
-<body class="<?php echo getBodyClass($pagePath, $bodyClass); ?>">
+
+<body class="hold-transition skin-blue sidebar-mini">
+<!--<body class="<?php /*echo getBodyClass($pagePath, $bodyClass); */?>">-->
 <!-- //App Header.html -->
