@@ -3,11 +3,6 @@
 <?php require_once $_SERVER["DOCUMENT_ROOT"] . "/lib.php"; ?>
 <?php require "part/app-header.php"; ?>
 
-
-
-
-
-
 <div class="wrapper">
 
     <header class="main-header">
@@ -449,11 +444,6 @@
     <div class="control-sidebar-bg"></div>
 </div>
 <!-- ./wrapper -->
-
-
-
-
-
 
 
 
